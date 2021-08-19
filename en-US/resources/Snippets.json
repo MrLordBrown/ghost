@@ -1,77 +1,77 @@
 {
-    "sfx": "<audio src='$SNIPPET_S3_RESOURCES_URI/audio/$1'/>",
+    "sfx": "$SNIPPET_S3_RESOURCES_URI/audio/$1",
 
     "pic": "$SNIPPET_S3_RESOURCES_URI/images/$1",
 
-    "trumpet": "<audio src='https://sfb-framework.s3.amazonaws.com/examples/sounds/Trumpet_1.mp3' />",
+    "trumpet": "https://sfb-framework.s3.amazonaws.com/examples/sounds/Trumpet_1.mp3",
 
-    "pause for": "<break time='$1'/>",
+    "pause for": "<break time='$1",
 
-    "pause": "<break time='1s'/>",
+    "pause": "<break time='1s",
 
-    "shortPause": "<break time='0.5s'/>",
+    "shortPause": "<break time='0.5s",
 
     "kid": "<voice name='Justin'>",
     
     "/kid": "</voice>",
 
-    "ocean wave": "<audio src='https://sfb-framework.s3.amazonaws.com/examples/sounds/ocean_wave.mp3'/>",
+    "ocean wave": "https://sfb-framework.s3.amazonaws.com/examples/sounds/ocean_wave.mp3",
 
-    "intro": "<audio src='soundbank://soundlibrary/horror/horror_12'/>",
+    "intro": "soundbank://soundlibrary/horror/horror_12",
 
-    "enter": "<audio src='soundbank://soundlibrary/horror/horror_01'/>",
+    "enter": "soundbank://soundlibrary/horror/horror_01",
 
-    "echo": "<audio src='soundbank://soundlibrary/horror/horror_04'/>",
+    "echo": "soundbank://soundlibrary/horror/horror_04",
 
-    "phase": "<audio src='soundbank://soundlibrary/horror/horror_06'/>",
+    "phase": "soundbank://soundlibrary/horror/horror_06",
 
-    "scream": "<audio src='soundbank://soundlibrary/horror/horror_08'/>",
+    "scream": "soundbank://soundlibrary/horror/horror_08",
 
-    "ghostScream": "<audio src='soundbank://soundlibrary/horror/horror_09'/>",
+    "ghostScream": "soundbank://soundlibrary/horror/horror_09",
 
-    "door": "<audio src='soundbank://soundlibrary/horror/horror_10'/>",
+    "door": "soundbank://soundlibrary/horror/horror_10",
 
-    "box": "<audio src='soundbank://soundlibrary/horror/horror_01'/>",
+    "box": "soundbank://soundlibrary/horror/horror_01",
 
-    "emf": "<audio src='soundbank://soundlibrary/electrical/buzz_hums/buzz_hums_02'/>",
+    "emf": "soundbank://soundlibrary/electrical/buzz_hums/buzz_hums_02",
 
-    "rand1": "<audio src='soundbank://soundlibrary/electrical/feedback_mics/feedback_mics_01'/>",
+    "rand1": "soundbank://soundlibrary/electrical/feedback_mics/feedback_mics_01",
 
-    "tesla": "<audio src='soundbank://soundlibrary/electrical/arcs_sparks/arcs_sparks_01'/>",
+    "tesla": "soundbank://soundlibrary/electrical/arcs_sparks/arcs_sparks_01",
 
-    "rand2": "<audio src='soundbank://soundlibrary/explosions/electrical/electrical_02'/>",
+    "rand2": "soundbank://soundlibrary/explosions/electrical/electrical_02",
 
-    "rand3": "<audio src='soundbank://soundlibrary/air/fire_extinguisher/fire_extinguisher_05'/>",
+    "rand3": "soundbank://soundlibrary/air/fire_extinguisher/fire_extinguisher_05",
 
-    "howl": "<audio src='soundbank://soundlibrary/aircrafts/futuristic/futuristic_03'/>",
+    "howl": "soundbank://soundlibrary/aircrafts/futuristic/futuristic_03",
 
-    "rand4": "<audio src='soundbank://soundlibrary/backgrounds_ambience/carnivals_fairs/carnivals_fairs_01'/>",
+    "rand4": "soundbank://soundlibrary/backgrounds_ambience/carnivals_fairs/carnivals_fairs_01",
 
-    "rand5": "<audio src='soundbank://soundlibrary/chairs/seats_stools/seats_stools_03'/>",
+    "rand5": "soundbank://soundlibrary/chairs/seats_stools/seats_stools_03",
 
-    "door2": "<audio src='soundbank://soundlibrary/chairs/seats_stools/seats_stools_05'/>",
+    "door2": "soundbank://soundlibrary/chairs/seats_stools/seats_stools_05",
 
-    "turn": "<audio src='soundbank://soundlibrary/chairs/seats_stools/seats_stools_08'/>",
+    "turn": "soundbank://soundlibrary/chairs/seats_stools/seats_stools_08",
 
-    "stairs": "<audio src='soundbank://soundlibrary/human/amzn_sfx_human_walking_02'/>",
+    "stairs": "soundbank://soundlibrary/human/amzn_sfx_human_walking_02",
 
-    "steps": "<audio src='soundbank://soundlibrary/footsteps/stairs/stairs_02'/>",
+    "steps": "soundbank://soundlibrary/footsteps/stairs/stairs_02",
 
-    "run": "<audio src='soundbank://soundlibrary/footsteps/stairs/stairs_06'/>",
+    "run": "soundbank://soundlibrary/footsteps/stairs/stairs_06",
 
-    "fast": "<audio src='soundbank://soundlibrary/footsteps/stairs/stairs_12'/>",
+    "fast": "soundbank://soundlibrary/footsteps/stairs/stairs_12",
 
-    "banish": "<audio src='soundbank://soundlibrary/magic_spells/magic_spells_11'/>",
+    "banish": "soundbank://soundlibrary/magic_spells/magic_spells_11",
 
-    "bind": "<audio src='soundbank://soundlibrary/magic_spells/magic_spells_02'/>",
+    "bind": "soundbank://soundlibrary/magic_spells/magic_spells_02",
 
-    "camera": "<audio src='soundbank://soundlibrary/camera/camera_04'/>",
+    "camera": "soundbank://soundlibrary/camera/camera_04",
 
-    "weather1": "<audio src='soundbank://soundlibrary/nature/amzn_sfx_lightning_strike_01'/>",
+    "weather1": "soundbank://soundlibrary/nature/amzn_sfx_lightning_strike_01",
 
-    "weather2": "<audio src='soundbank://soundlibrary/nature/amzn_sfx_lightning_strike_02'/>",
+    "weather2": "soundbank://soundlibrary/nature/amzn_sfx_lightning_strike_02",
 
-    "flashlight": "<audio src='soundbank://soundlibrary/switches_levers/switches_levers_15'/>"
+    "flashlight": "soundbank://soundlibrary/switches_levers/switches_levers_15"
 
 
 }
